@@ -1,0 +1,4 @@
+(executable
+ (public_name prbA)
+ (name main)
+ (libraries prbA Zarith))
