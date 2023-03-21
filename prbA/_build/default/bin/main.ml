@@ -39,11 +39,13 @@ let rec memoized_mot num =
       result
 
 (* verificação do input && output *)
-let () = if (num >= 0 && num <= 10000) then Z.print (memoized_mot num); print_endline ("")
+let () = 
+  if (num >= 0 && num <= 10000) then num |> memoized_mot |> Z.print; 
+  print_endline ("")
 
 
 (********************************************************************************************************************************************)
-(* exemplo de execução                                                                                                                      *)
+(* exemplo de execução                                                                                                                  *)
 (* - com dune                                                                                                                               *)
 (* abra o Terminal (ou alternativa semelhante)                                                                                              *)
 (* navegue para o diretório que contém o projeto                                                                                            *)

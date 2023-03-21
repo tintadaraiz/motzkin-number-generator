@@ -1,9 +1,10 @@
 # dune exec prbA
 # OCAMLPARAM: unset
 # Shared cache: disabled
-# Workspace root: /Users/rdsilva/Developer/ocaml/trabalhos/A_demo/prbA
+# Workspace root:
+# /Users/rdsilva/Developer/ocaml/trabalhos/A_demo/motzkin-number-generator/prbA
 # Auto-detected concurrency: 8
-$ /Users/rdsilva/.opam/4.14.0/bin/ocamlc.opt -config > /var/folders/j0/0wxqgpbs2yd27wyqph2vgvjm0000gn/T/dune_c67f4e_output
+$ /Users/rdsilva/.opam/4.14.0/bin/ocamlc.opt -config > /var/folders/j0/0wxqgpbs2yd27wyqph2vgvjm0000gn/T/dune_4c8b89_output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -24,15 +25,15 @@ $ /Users/rdsilva/.opam/4.14.0/bin/ocamlc.opt -config > /var/folders/j0/0wxqgpbs2
 #        { "DUNE_OCAML_HARDCODED" : "/Users/rdsilva/.opam/4.14.0/lib"
 #        ; "DUNE_OCAML_STDLIB" : "/Users/rdsilva/.opam/4.14.0/lib/ocaml"
 #        ; "DUNE_SOURCEROOT" :
-#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/prbA"
+#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/motzkin-number-generator/prbA"
 #        ; "INSIDE_DUNE" :
-#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/prbA/_build/default"
+#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/motzkin-number-generator/prbA/_build/default"
 #        ; "OCAMLFIND_IGNORE_DUPS_IN" :
-#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/prbA/_build/install/default/lib"
+#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/motzkin-number-generator/prbA/_build/install/default/lib"
 #        ; "OCAMLPATH" :
-#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/prbA/_build/install/default/lib"
+#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/motzkin-number-generator/prbA/_build/install/default/lib"
 #        ; "OCAMLTOP_INCLUDE_PATH" :
-#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/prbA/_build/install/default/lib/toplevel"
+#            "/Users/rdsilva/Developer/ocaml/trabalhos/A_demo/motzkin-number-generator/prbA/_build/install/default/lib/toplevel"
 #        ; "OCAML_COLOR" : "always"
 #        ; "OPAMCOLOR" : "always"
 #        }
