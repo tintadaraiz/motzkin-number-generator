@@ -44,7 +44,7 @@ let () = num |> memoized_mot |> Z.print; print_endline ("")
 
 
 (********************************************************************************************************************************************)
-(* exemplo de execução                                                                                                                  *)
+(* exemplo de execução                                                                                                                      *)
 (* - com dune                                                                                                                               *)
 (* abra o Terminal (ou alternativa semelhante)                                                                                              *)
 (* navegue para o diretório que contém o projeto                                                                                            *)
